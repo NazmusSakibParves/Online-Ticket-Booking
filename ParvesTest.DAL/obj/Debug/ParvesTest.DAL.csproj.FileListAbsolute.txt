@@ -1,0 +1,13 @@
+F:\2015C#-PARVES\ProjectParves\ParvesTest.DAL\bin\Debug\ParvesTest.DAL.dll
+F:\2015C#-PARVES\ProjectParves\ParvesTest.DAL\bin\Debug\ParvesTest.DAL.pdb
+F:\2015C#-PARVES\ProjectParves\ParvesTest.DAL\obj\Debug\ParvesTest.DAL.dll
+F:\2015C#-PARVES\ProjectParves\ParvesTest.DAL\obj\Debug\ParvesTest.DAL.pdb
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves2\ParvesTest.DAL\bin\Debug\ParvesTest.DAL.dll
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves2\ParvesTest.DAL\bin\Debug\ParvesTest.DAL.pdb
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves2\ParvesTest.DAL\obj\Debug\ParvesTest.DAL.dll
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves2\ParvesTest.DAL\obj\Debug\ParvesTest.DAL.pdb
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves 3\ParvesTest.DAL\bin\Debug\ParvesTest.DAL.dll
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves 3\ParvesTest.DAL\bin\Debug\ParvesTest.DAL.pdb
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves 3\ParvesTest.DAL\obj\Debug\ParvesTest.DAL.dll
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves 3\ParvesTest.DAL\obj\Debug\ParvesTest.DAL.pdb
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves 3\ParvesTest.DAL\obj\Debug\ParvesTest.DAL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+F:\2015C#-PARVES\ProjectParves\ParvesTest.Bll\bin\Debug\ParvesTest.Bll.dll
+F:\2015C#-PARVES\ProjectParves\ParvesTest.Bll\bin\Debug\ParvesTest.Bll.pdb
+F:\2015C#-PARVES\ProjectParves\ParvesTest.Bll\obj\Debug\ParvesTest.Bll.dll
+F:\2015C#-PARVES\ProjectParves\ParvesTest.Bll\obj\Debug\ParvesTest.Bll.pdb
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves2\ParvesTest.Bll\bin\Debug\ParvesTest.Bll.dll
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves2\ParvesTest.Bll\bin\Debug\ParvesTest.Bll.pdb
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves2\ParvesTest.Bll\obj\Debug\ParvesTest.Bll.dll
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves2\ParvesTest.Bll\obj\Debug\ParvesTest.Bll.pdb
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves 3\ParvesTest.Bll\bin\Debug\ParvesTest.Bll.dll
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves 3\ParvesTest.Bll\bin\Debug\ParvesTest.Bll.pdb
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves 3\ParvesTest.Bll\obj\Debug\ParvesTest.Bll.dll
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves 3\ParvesTest.Bll\obj\Debug\ParvesTest.Bll.pdb
+C:\Users\NAZMUS SAKIB\Desktop\ProjectParves 3\ParvesTest.Bll\obj\Debug\ParvesTest.Bll.csprojResolveAssemblyReference.cache
