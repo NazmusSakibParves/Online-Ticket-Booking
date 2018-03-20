@@ -1,15 +1,3 @@
 # Online-Ticket-Booking
 
-Developed in: 2015
-
-Developed by:
-
-S.M. Nazmus Sakib Parves
-
-BSc. in Computer Science and Engineering 
-
-American International University - Bangladesh (AIUB)
-
-Email: parvesnazmussakib@gmail.com
-
-Contact: +8801723462142
+Here, I want to create online ticket Management System. Where Admin and User can book Bus Ticket and Additional feature is customer can book car via this system. Admin have all privilege for this system. Admin and Customer both have to be authenticating user. 
